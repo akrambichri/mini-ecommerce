@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "subcat 1",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "subcat 2",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "subcat 3",
+    "category_id": 2
+  },
+  {
+    "id": 4,
+    "name": "subcat 4",
+    "category_id": 2
+  }
+]
